@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)
+- 🌱 I’m currently learning: Python
+- 📫 How to reach me: sebastian@tekydevelop.com
+
+Other info:
+- ✨ Thingiverse profile: https://www.thingiverse.com/softwareinclude/designs
+
 <!--
 **ManolescuSebastian/ManolescuSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
