@@ -1,3 +1,6 @@
+<table>
+  <tr><tr>
+    <td>
 ### Hi there 👋
 
 - 🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)
@@ -6,6 +9,14 @@
 
 Other info:
 - ✨ Thingiverse profile: https://www.thingiverse.com/softwareinclude/designs
+ 
+  </td>
+   <td><img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/it_s_something.gif" width="90%"></img></td>
+  </tr>
+ </table>
+
+
+
 
 <!--
 **ManolescuSebastian/ManolescuSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
