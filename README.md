@@ -7,10 +7,10 @@
    🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)        
    🌱 I’m currently learning: Python 🐍      
            
-<center>
- <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_animation.gif" width="80%"/>
-</center>
-
+          
+             
+ <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_anim.gif" width="80%"/>
+      
 <!--
 **ManolescuSebastian/ManolescuSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
