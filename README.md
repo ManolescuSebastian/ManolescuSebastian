@@ -9,7 +9,7 @@
            
           
              
- <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_anim.gif" width="80%"/>
+ <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_anim_default.gif" width="80%"/>
       
 <!--
 **ManolescuSebastian/ManolescuSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
