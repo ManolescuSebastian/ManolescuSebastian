@@ -1,12 +1,12 @@
 
+  [![Thingiverse](https://img.shields.io/badge/profile-Thingiverse-blue)](https://www.thingiverse.com/softwareinclude/designs)
+  [![Contact](https://img.shields.io/badge/Contact-sebastian%40tekydevelop.com-orange )](sebastian@tekydevelop.com)    
+  
   <h3> Hi there 👋 </h3>       
 
    🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)        
-   🌱 I’m currently learning: Python       
-   📫 How to reach me: sebastian@tekydevelop.com         
-
-   Other info:        
-   ⚡ Thingiverse profile: https://www.thingiverse.com/softwareinclude/designs        
+   🌱 I’m currently learning: Python 🐍      
+   📫 How to reach me:     
  
            
 
