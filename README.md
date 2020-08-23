@@ -1,5 +1,4 @@
-<table>
-  <td border="none">
+
   <h3> Hi there 👋 </h3>       
 
    🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)        
@@ -8,13 +7,10 @@
 
    Other info:        
    ⚡ Thingiverse profile: https://www.thingiverse.com/softwareinclude/designs        
-  </td>
-  
-   <td align="center" >
-    <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/it_s_something.gif" width="95%"/>
-  </td>
+ 
+           
 
- </table>
+ <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_animation.gif" width="95%"/>
 
 
 <!--
