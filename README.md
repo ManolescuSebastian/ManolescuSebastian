@@ -6,8 +6,6 @@
 
    🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)        
    🌱 I’m currently learning: Python 🐍      
-   📫 How to reach me:     
- 
            
 <center>
  <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_animation.gif" width="80%"/>
