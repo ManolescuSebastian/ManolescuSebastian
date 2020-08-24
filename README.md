@@ -5,8 +5,7 @@
   <h3> Hi there 👋 </h3>       
 
    🔭 I’m currently working on: **FunBot** open source project [here](https://github.com/ManolescuSebastian/FunBot)        
-   🌱 I’m currently learning: Python 🐍      
-           
+   🌱 I’m currently learning: <img align="center" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
           
              
  <img src="https://github.com/ManolescuSebastian/ManolescuSebastian/blob/master/git_anim_default.gif" width="80%"/>
